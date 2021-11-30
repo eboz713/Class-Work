@@ -1,0 +1,15 @@
+Vaccuum: Vaccuum the house. Requires Vaccuum
+Priority level:1
+
+Mow the Lawn: Mow the lawn. Requires Lawnmower, Trimmers
+Priority level:3
+
+Take out the Trash: Take out the trash and the recyclables. Requires Trash Bin
+Priority level:4
+
+Do the Dishes: Load the dish washer and clean the non dishwasher safe dishes. Requires Soap, Dishwasher, Sink, Scrub Brush
+Priority level:2
+
+Fix the Car: Replace the brake pads and right headlight. Requires Socket Wrench, Headlight, Brakepads
+Priority level:5
+
